@@ -1,0 +1,7 @@
+Trắc nghiệm thông minh
+1. Vừa gà vừa chó, bó lại cho tròn, ba mươi sáu con, một trăm chân chẵn, hỏi có mấy gà, mấy chó
+100 gà, 100 chó			10 gà, 10 chó
+20 gà, 20 chó			5 gà, 5 chó
+2. Rồng đất là con gì
+gà			dế
+voi			giun
